@@ -1,2 +1,3 @@
+
 # Online-Food-Ordering-System
-# Online-Food-Ordering-System
+The Food Ordering System Project in C++ is a consoled based application and created using C++ programming language. This system is a simple mini project . This Food Ordering System Project is based on the fundamental idea of fast food ordering and creating complete food cost. There’s no login framework in this system. At that point the client can make a request by choosing from the menu.Discussing the highlights of the Food Ordering System Project framework, the client needs to choose any of the things from the main menu. At that point he/she needs to choose its sorts and afterward enter food amount. After this, the framework shows the complete bill of the client.
