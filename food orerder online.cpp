@@ -1,3 +1,4 @@
+<--------Nahenur----->
 #include<iostream>
 #include<conio.h>
 using namespace std;
@@ -9,7 +10,7 @@ int main()
 	int choice=0,pchoice,pchoice1, quantity;
 	beginning:
 	system("CLS");
-	cout<<"\t\t\t\t\t----------Friend's Fast Food-----------\n\n";
+	cout<<"\t\t\t\t\t---------- THE FEED ZONE -----------\n\n";
 	cout<<"Please Enter Your Name: ";
 	cin.getline(name, 20);
 	cout<<"Hello "<<name<<"\n\nWhat would you like to order?\n\n";
