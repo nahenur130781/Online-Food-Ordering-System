@@ -162,7 +162,7 @@ int main()
 
  }
 }
-	else if(choice==3)
+	else if (choice==3)
 	 {
 		cout<<"\n1  "<<sand1<<" tk.240"<<"\n";
 		cout<<"2  "<<sand2<<" tk.160"<<"\n";
