@@ -79,8 +79,8 @@ int main()
 			 cout<<"\t\t--------Your Order---------\n";
 			 cout<<""<<quantity<<" "<<pizza4;
 			 cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 40 Minutes";
-			 cout<<"\nThank you For Ordering From Friend's Fast Food\n";
-			 break;
+			 cout<<"\nThank you For Ordering From THE FEED ZONE\n";
+			 Break;
 
 			}
 			cout<<"Would you like to order anything else? Y / N:";
@@ -120,23 +120,29 @@ int main()
 
 			case 3: choice = 160*quantity;
 			break;
+				
 
 			}
+			
 			system("CLS");
+			
 			switch (pchoice1)
 			{
+				
 			 case 1:
 			 cout<<"\t\t--------Your Order---------\n";
 			 cout<<""<<quantity<<" "<<bur1;
 			 cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 30 Minutes";
 			 cout<<"\nThank you For Ordering From Friend's Fast Food \n";
 			 break;
+				
 			 case 2:
 			 cout<<"\t\t--------Your Order---------\n";
 			 cout<<""<<quantity<<"  "<<bur2;
 			 cout<<"\nYour Total Bill is"<<choice<<"\nYour Order Will be delivered in 47 Minutes";
 			 cout<<"\nThank you For Ordering From Friend's Pizza\n";
 			 break;
+				
 			 case 3:
 			 cout<<"\t\t--------Your Order---------\n";
 			 cout<<""<<quantity<<" "<<bur3;
